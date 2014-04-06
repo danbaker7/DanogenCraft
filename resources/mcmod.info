@@ -1,0 +1,16 @@
+[
+{
+  "modid": "danogenCraft",
+  "name": "Danogen Craft",
+  "description": "This mainly adding Oynx as an ore, which can be made into tools, armor, blocks etc. Then also edible brownies and dirtball which you use to compress 9 dirt into one ball",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/danogen",
+  "updateUrl": "",
+  "authors": ["danogen"],
+  "credits": "UnWrittenFun",
+  "logoFile": "onyx_block.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

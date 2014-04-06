@@ -1,0 +1,44 @@
+X- Onyx Ingot
+Y- Stick
+
+- Pickaxe
+XXX
+ y 
+ y 
+
+- Axe
+xx 
+xy 
+ y 
+
+- Hoe
+xx 
+ y 
+ y 
+
+- Shovel
+ x 
+ y 
+ y 
+
+- Sword
+ x 
+ x 
+ y 
+
+-Pressure Plate
+   
+   
+xx 
+
+- Half Slab
+   
+   
+xxx
+
+-To make a block out of half slabs
+    
+x
+x
+
+-

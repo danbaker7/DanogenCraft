@@ -1,0 +1,14 @@
+X = Coco Beans
+Y = Sugar
+Z = Wheat
+
+XXX
+YZY
+
+4 Brownies each time
+
+Heals - 0.6F
+Stacks - 64
+
+
+

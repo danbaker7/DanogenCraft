@@ -1,0 +1,25 @@
+See recipies.txt for recipies
+08/03/14 - v0.0.4
+Op-ified Brownies
+
+07/03/14 -v0.0.3
+Added Sphaxstyle 512x512 textures for all pre v0.0.3 items/blocks
+Added Armor - Stock Textures. But not render. so look texture less on player
+Added a custom creative tab
+Added Onyx Pressure Plates - essentially retextured obisidian pressure plates
+Added Onyx Button
+Added Onyx Lever
+Fixed textures when using no texture pack (Stock)
+Fixed the non-repeatable texture of Spahax-Onyx_Block
+tweaked Ore generation - more common
+Changed textures for pressureplates + halfslabs to reference the Block
+
+02/03/14 -v0.0.2
+Added Onyx Material
+Added Onyx Tools - Craftable!
+Added Onyx Ingots
+Added Brownies - Craftable!
+Added the textures for these
+
+01/02/14 - v0.0.1 - Initial Alpha
+Added DirtBalls - Craftable! and reversable
